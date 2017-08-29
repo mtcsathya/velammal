@@ -5,10 +5,10 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "20190"
         version   = "3.3.1">
-    <name>Moodle Mobile</name>
+    <name>Velammal Mobile</name>
 
     <description>
-        Moodle Mobile official app
+        Velammal Mobile official app
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
