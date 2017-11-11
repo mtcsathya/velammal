@@ -11,8 +11,8 @@
         Velammal Mobile official app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="http://avkstudios.com" email="md@avkstudios.com">
+        velammal Mobile team
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
@@ -134,7 +134,7 @@
     <gap:plugin name="nl.kingsquare.cordova.background-audio" source="npm" />
 
     <gap:plugin name="phonegap-plugin-push" source="npm" version="1.9.2">
-        <param name="62249093174" value="510575096185" />
+        <param name="62249093174" value="578987199728" />
     </gap:plugin>
     <gap:plugin name="cordova-plugin-customurlscheme" source="npm">
         <param name="URL_SCHEME" value="velammalmobile" />
